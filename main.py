@@ -5,7 +5,7 @@ def main():
     Use the same variables: celcius fahrenheit
     ##################################################
     """
-    celcius = int(input("Temperature in Celcius: "))
+    celcius = float(input("Temperature in Celcius: "))
     fahrenheit=((9/5)*celcius)+32
     print (f'Conversion is \t {fahrenheit:.2f}')
     """
