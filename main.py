@@ -1,7 +1,7 @@
 def main():
     """
     ##################################################
-    celcius=23
+    celcius=int(23)
     farenheit=((9/5)*celcius)+32
     print (f'Conversion is \t {fahrenheit:.2f}')
     ##################################################
