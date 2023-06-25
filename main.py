@@ -1,8 +1,9 @@
 def main():
     """
     ##################################################
-    # Comlete your code here
-    Use the same variables: celcius fahrenheit 
+    celcius=23
+    farenheit=((9/5)*celcius)+32
+    print (f'Conversion is \t {fahrenheit:.2f}')
     ##################################################
     """
 
