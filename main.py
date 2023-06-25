@@ -1,7 +1,7 @@
 def main():
     """
     ##################################################
-    # Comlete your code here
+    # Complete your code here
     Use the same variables: celcius fahrenheit
     ##################################################
     """
